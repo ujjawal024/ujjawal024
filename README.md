@@ -26,8 +26,6 @@ Learning through hands-on projects and practical implementation
 
 ### Tech Stack
 
-### Tech Stack
-
 * **Languages:** C++, Python, JavaScript
 * **Frontend:** React, Tailwind CSS
 * **Backend:** Flask (REST APIs)
