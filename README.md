@@ -40,5 +40,3 @@ Learning through hands-on projects and practical implementation
 * Advanced Cybersecurity Concepts
 * Secure Architecture & System Design
 * Real-world Vulnerability Analysis
-
----
