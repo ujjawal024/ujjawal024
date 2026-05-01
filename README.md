@@ -26,12 +26,14 @@ Learning through hands-on projects and practical implementation
 
 ### Tech Stack
 
-**Languages:** C++, Python, JavaScript
-**Frontend:** React, Tailwind CSS
-**Backend:** Flask (REST APIs)
-**CMS & Web Tools:** WordPress (Elementor)
-**Tools & Platforms:** Git, VS Code, Linux
-**Security Tools:** Wireshark, Nmap, OpenVAS (GVM)
+### Tech Stack
+
+* **Languages:** C++, Python, JavaScript
+* **Frontend:** React, Tailwind CSS
+* **Backend:** Flask (REST APIs)
+* **CMS & Web Tools:** WordPress (Elementor)
+* **Tools & Platforms:** Git, VS Code, Linux
+* **Security Tools:** Wireshark, Nmap, OpenVAS (GVM)
 
 ---
 
